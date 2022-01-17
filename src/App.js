@@ -46,7 +46,7 @@ const handleSubmit = (event) => {
 
   return (
     <div className="App">
-      <h1>Welcome to the Mount Joey Deal With It National Gallery</h1>
+      <h1>Art's Art Museum of Artful Art</h1> 
       <h2>🌽We present you with our most top cob art collection.🌽</h2>
 
     <form onSubmit= { handleSubmit}>
